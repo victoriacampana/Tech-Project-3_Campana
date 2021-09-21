@@ -1,0 +1,6 @@
+/Users/victoriacampana/Desktop/TechProject3_Campana/TechProject3_Campana/obj/Debug/TechProject3_Campana.csproj.AssemblyReference.cache
+/Users/victoriacampana/Desktop/TechProject3_Campana/TechProject3_Campana/obj/Debug/TechProject3_Campana.csproj.CoreCompileInputs.cache
+/Users/victoriacampana/Desktop/TechProject3_Campana/TechProject3_Campana/bin/Debug/TechProject3_Campana.exe
+/Users/victoriacampana/Desktop/TechProject3_Campana/TechProject3_Campana/bin/Debug/TechProject3_Campana.pdb
+/Users/victoriacampana/Desktop/TechProject3_Campana/TechProject3_Campana/obj/Debug/TechProject3_Campana.exe
+/Users/victoriacampana/Desktop/TechProject3_Campana/TechProject3_Campana/obj/Debug/TechProject3_Campana.pdb
